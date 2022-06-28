@@ -8,3 +8,7 @@
     "rimraf": "2.6.1"
   }
 }
+
+(
+ "ansible" = "playbook"
+)
